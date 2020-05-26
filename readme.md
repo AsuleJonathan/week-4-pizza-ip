@@ -3,7 +3,7 @@
 # 2/3/2020
 
 # LIVE LINK TO PROJECT
-https://einsteinelaim.github.io/Pizza-Shop-IP/
+ https://asulejonathan.github.io/week-4-pizza-ip
 
 # Project Description
 This is a web app for  My Pizza Shop. It's comprised of a welcome note on the top of the site, an About Us section that follows it which includes descriptions of My Pizza Shop and what we do there.
