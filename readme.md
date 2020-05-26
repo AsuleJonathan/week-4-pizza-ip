@@ -31,7 +31,7 @@ As is, the project contains no known bugs.
 Technologies used include:
 HTML, Bootstrap, CSS, jQuery & Javascript.
 
-### Contact me on: eliam@gmail.com
+### Contact me on: liam@gmail.com
 I encourage anyone who has any contribution to make to this code to improve it do so. 
 Live link:https://github.com/EinsteinElaim/Pizza-Shop-IP/tree/Development
 
