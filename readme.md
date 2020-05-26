@@ -33,7 +33,7 @@ HTML, Bootstrap, CSS, jQuery & Javascript.
 
 ### Contact me on: asulejona@gmail.com
 I encourage anyone who has any contribution to make to this code to improve it do so. 
-Live link: https://asulejonathan.github.io/week-4-pizza-ip
+Live link: https://github.com/AsuleJonathan/week-4-pizza-ip/tree/gh-pages
 
 
 ### License
